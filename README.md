@@ -1,8 +1,8 @@
 # 💫About Me :
 👋 I'm EhsaN Karimi , a frontend developer 👨‍💻
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+<div id="header" align="start">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
 ## 🌐Socials:
